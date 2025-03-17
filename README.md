@@ -8,6 +8,7 @@ This repository contains research on contractor bond forms from various states i
   - **arizona/** - Arizona contractor bond information
   - **california/** - California contractor bond information
   - **florida/** - Florida contractor bond information
+  - **oregon/** - Oregon contractor bond information
   - **south-carolina/** - South Carolina contractor bond information
   - **washington/** - Washington state contractor bond information
 - **images/** - Contains documentation of bond forms and screenshots
@@ -29,6 +30,7 @@ During our research, we encountered several state contractor licensing boards th
 | South Carolina | Varies | Varies |
 | Nevada | Required but amount not confirmed | Required but amount not confirmed |
 | Florida | Varies by license type | Varies by license type |
+| Oregon | $15,000 - $80,000 | $15,000 - $55,000 |
 
 ### Common Bond Elements
 
@@ -71,6 +73,23 @@ Most contractor bond forms include these standard elements:
 - Varies by license type and classification
 - Forms accessed through MyFloridaLicense portal
 - Florida DBPR: https://www.myfloridalicense.com/
+
+### Oregon
+
+- Bond amounts increased by $5,000 effective January 1, 2024
+- Varies by endorsement type ($15,000 - $80,000)
+- Commercial Bond form: https://www.oregon.gov/ccb/Documents/Surety%20Bond_Commercial.pdf
+- Residential Bond form: https://www.oregon.gov/ccb/Documents/Surety%20Bond_Residential.pdf
+- Oregon Construction Contractors Board: https://www.oregon.gov/ccb/
+
+## Recent Trends
+
+During our research, we identified a trend of states increasing their bond amount requirements:
+
+1. **Oregon** - Increased all bond amounts by $5,000 effective January 1, 2024
+2. **Washington** - Increasing bond amounts effective July 1, 2024
+
+This suggests that states are updating their requirements to provide stronger consumer protection in today's construction market.
 
 ## Next Steps
 
