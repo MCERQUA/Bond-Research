@@ -1,68 +1,59 @@
-# Contractor Bond Forms Research
+# Contractor Bond Form Research
 
-This repository contains research on contractor bond forms from various states, collected for reference purposes. The research was compiled for Josh's contracting business.
+This repository contains research on contractor bond forms from various states in the United States. This information is compiled as a reference for Josh's projects.
 
-## Contents
+## Research Findings
 
-### State Bond Information
+During our research, we encountered several state contractor licensing boards that provide bond forms for contractors. Due to technical limitations in directly downloading PDF files, we've captured screenshots and provided links to the relevant websites.
 
-- [Arizona Bond Form](forms/Arizona/LICENSE-BOND.md) - State of Arizona contractor license bond form
-- [South Carolina Bond Forms](forms/South-Carolina/BOND-FORMS.md) - South Carolina general and mechanical contractor surety bond forms
-- [California Bond Information](forms/California/CONTRACTOR-BONDS.md) - California contractor license bond requirements
-- [Nevada Bond Information](forms/Nevada/CONTRACTOR-BONDS.md) - Nevada contractor license bond requirements
-- [Tennessee Bond Information](forms/Tennessee/CONTRACTOR-BONDS.md) - Tennessee specialized contractor bond requirements
+### Arizona
 
-### General Resources
+The image provided shows an Arizona contractor bond form. Key elements include:
+- Title: "LICENSE BOND"
+- State of Arizona Registration of Contractors
+- Fields for Principal, Surety, Bond Number, License Classification, and Penal Sum
 
-- [Research Notes](research-notes.md) - Additional notes about available bond forms and requirements by state
-- [Bond Form Images](images/README.md) - Screenshots of bond forms from various states
+### South Carolina
 
-## Purpose
+South Carolina offers separate bond forms for general and mechanical contractors:
+- [Surety Bond Form for General Contractors](https://llr.sc.gov/clb/Forms/Surety_Bond_General_Contractors_(package).pdf)
+- [Surety Bond Form for Mechanical Contractors](https://llr.sc.gov/clb/Forms/Surety_Bond_Mechanical_Contractors_(package).pdf)
 
-This research collection provides examples of contractor bond forms from different states to help understand the various bonding requirements across jurisdictions. These forms are crucial for contractors who need to be licensed in multiple states.
+These forms can be found on the South Carolina Contractor's Licensing Board website: [SC Contractor Forms](https://llr.sc.gov/clb/clb_apps.aspx)
 
-## Key Findings
+### Washington State
 
-1. **Bond Amount Variation**: Bond requirements vary significantly between states, ranging from $5,000 to $50,000+
-2. **License-Specific Requirements**: Some states like Tennessee only require bonds for specific license types
-3. **Monetary Limit Correlation**: Many states base bond amounts on the monetary limit of the contractor's license
-4. **Additional Requirements**: Bonds often accompany other requirements like insurance and financial statements
-5. **Form Accessibility**: Many states don't make their bond forms publicly accessible without registration
+Washington State requires contractors to provide a Continuous Contractor's Surety Bond.
+- Bond form: [Continuous Contractor's Surety Bond](https://lni.wa.gov/forms-publications/F625-003-000.pdf)
+- Alternative: [Assignment of Account](https://lni.wa.gov/forms-publications/F625-008-000.pdf)
 
-## Research Sources
+Bond amounts in Washington (effective July 1, 2024):
+- $30,000 for general contractors
+- $15,000 for specialty contractors
 
-The following sources were used to collect these bond forms:
+Source: [Washington State Contractor Registration](https://lni.wa.gov/licensing-permits/contractors/register-as-a-contractor/)
 
-1. State contractor licensing board websites:
-   - Arizona Registrar of Contractors
-   - South Carolina Department of Labor, Licensing and Regulation
-   - California Contractors State License Board
-   - Nevada State Contractors Board
-   - Tennessee Board for Licensing Contractors
+## Additional Resources
 
-2. Public regulatory documents
-3. Screenshots of official bond forms
+### Bond Requirements By State
 
-## Navigation
+Many states have different bond requirements for contractors. Some common elements across states include:
 
-Forms are organized by state in the `forms` directory. Each state folder contains the available bond forms and documentation about that state's requirements.
-
-## Research Challenges
-
-Many contractor licensing websites have security measures that prevent direct access to their forms through automated tools. For comprehensive research, it's recommended to:
-
-1. Contact state licensing boards directly by phone
-2. Request current bond forms via official channels
-3. Work with a licensed surety bond agency that has access to current forms
+1. Bond amount requirements (varying by state and contractor type)
+2. Named obligee (usually the state licensing board)
+3. Principal information (the contractor)
+4. Surety information
+5. Term/effective dates
+6. Signatures and notarization
 
 ## Next Steps
 
-To expand this research, consider:
+To expand this research:
 
-1. Contacting state licensing boards directly to request official bond forms
-2. Working with a licensed surety bond agency to obtain sample forms
-3. Expanding the research to include more states, especially neighboring states
+1. Directly contact state licensing boards to request sample bond forms
+2. Reach out to surety bond providers for additional examples
+3. Consider a more focused approach on specific states of interest
 
-## Note
+## Disclaimer
 
-This collection is for reference purposes only. Always obtain the most current version of bond forms directly from the relevant state licensing board when applying for or renewing a contractor's license.
+This research is provided for informational purposes only. Bond requirements change frequently, and contractors should always verify current requirements with their state licensing board or a licensed surety provider.
