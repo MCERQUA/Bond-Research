@@ -12,6 +12,7 @@ This document provides a comparison of contractor bond requirements across diffe
 | South Carolina | Varies | Varies | Separate forms for general and mechanical contractors |
 | Nevada | Required but amount not confirmed | Required but amount not confirmed | Nevada State Contractors Board regulates |
 | Florida | Varies by license type | Varies by license type | Forms accessed through MyFloridaLicense portal |
+| Oregon | $15,000 - $80,000 | $15,000 - $55,000 | Amounts increased as of January 1, 2024<br>Varies by endorsement type |
 
 ## Common Bond Form Elements
 
@@ -44,6 +45,15 @@ Based on our research, most contractor bond forms include the following elements
    - Signature blocks for surety and attorney-in-fact
    - Notarization requirements
    - Seal placement indicators
+
+## Recent Bond Amount Increases
+
+Multiple states have recently increased their contractor bond requirements:
+
+1. **Oregon** - Increased all bond amounts by $5,000 effective January 1, 2024
+2. **Washington** - Increasing from $12,000 to $30,000 for general contractors and from $6,000 to $15,000 for specialty contractors effective July 1, 2024
+
+This trend suggests that states are updating bond requirements to better protect consumers in today's construction market.
 
 ## Recommendations for Further Research
 
